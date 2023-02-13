@@ -1,5 +1,5 @@
 # SQL
---Postgres, tSQL, and MySQL projects
+### Postgres, tSQL, and MySQL projects
 
 Project Index:
 1. Zomato project - This project highlights the use of rank funciton to obtian meaningful insights about user statistics for a mobile shopping app.
